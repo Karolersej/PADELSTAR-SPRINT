@@ -1,0 +1,14 @@
+:root {
+  --black: #020202;
+  --white: #ffffff;
+  --padelblue: #1072BD;
+
+}
+
+h1,h2,li {
+color: var(--white)
+}
+
+body {
+  background-color: var(--padelblue);
+}
